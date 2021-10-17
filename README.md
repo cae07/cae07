@@ -1,6 +1,6 @@
 ## Olá, eu sou o Caê
 
-- :computer: Estudante na Trybe
+- :computer: Estudante na Trybe.
 - 🚀 Foguete não tem ré!
 - :dog: Amante dos animais
 - :pray: Mestre Reiki
@@ -14,6 +14,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cae07&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cae07&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
+<br>
+<hr>
 <div align="center" display="inline-block"> 
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -23,8 +25,6 @@
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </div>
-<br>
-<hr>
 <div align="center" style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
   <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
