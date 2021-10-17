@@ -1,8 +1,8 @@
 ## Olá, eu sou o Caê
 
-:computer: Estudante na Trybe
-🚀 Foguete não tem ré
-:dog: Amante dos animais
+- :computer: Estudante na Trybe.
+- 🚀 Foguete não tem ré!
+- :dog: Amante dos animais.
 
 "O conhecimento é limitado, a imaginação envolve o mundo"
 
