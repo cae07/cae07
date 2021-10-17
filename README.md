@@ -8,6 +8,7 @@
 "O conhecimento é limitado, a imaginação envolve o mundo"
 <br>
 <hr>
+<br>
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <a href="https://github.com/cae07">
@@ -16,6 +17,7 @@
 </div>
 <br>
 <hr>
+<br>
 <div align="center" display="inline-block"> 
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -35,14 +37,12 @@
   <img align="center" alt="ewe-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="ewe-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
-
 <br>
 <hr>
-
+<br>
 <div align="center" display="inline-block"> 
   <a href="https://www.instagram.com/cae_calcolari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-calçolari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/cae07/cae07/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
