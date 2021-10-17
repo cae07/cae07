@@ -1,8 +1,9 @@
 ## Olá, eu sou o Caê
 
-- :computer: Estudante na Trybe.
+- :computer: Estudante na Trybe
 - 🚀 Foguete não tem ré!
-- :dog: Amante dos animais.
+- :dog: Amante dos animais
+- :pray: Mestre Reiki
 
 "O conhecimento é limitado, a imaginação envolve o mundo"
 
