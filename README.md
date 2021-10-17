@@ -1,6 +1,4 @@
 ## Olá, eu sou o Caê
-<br>
-<hr>
 
 - :computer: Estudante na Trybe.
 - 🚀 Foguete não tem ré!
