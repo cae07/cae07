@@ -6,7 +6,8 @@
 - :pray: Mestre Reiki
 
 "O conhecimento é limitado, a imaginação envolve o mundo"
-
+<br>
+<hr>
 <div>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <a href="https://github.com/cae07">
@@ -22,6 +23,8 @@
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </div>
+<br>
+<hr>
 <div align="center" style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
   <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -35,7 +38,7 @@
 
 ##
 
-<div> 
+<div align="center" display="inline-block"> 
   <a href="https://www.instagram.com/cae_calcolari/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-eduardo-calçolari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
