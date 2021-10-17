@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
 </div>
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <i class="devicon-html5-plain colored"></i>
   <img align="center" alt="ewe-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="ewe-VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
