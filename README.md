@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=40&lines=Hello+world!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=35&lines=Hello+world!)
 
 - :computer: Estudante na Trybe.
 - 🚀 Foguete não tem ré!
