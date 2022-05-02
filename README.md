@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=35&lines=Hello+world!)
 
-- :computer: Estudante na Trybe.
+- :computer: Desenvolvedor Web.
 - 🚀 Foguete não tem ré!
 - :dog: Amante dos animais
 - :pray: Mestre Reiki
