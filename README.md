@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=35&lines=Hello+world!)
 
 - :computer: Desenvolvedor Web.
-- 🚀 Foguete não tem ré!
+- :parasol_on_ground: Amante da praia
 - :dog: Amante dos animais
 - :pray: Mestre Reiki
 
