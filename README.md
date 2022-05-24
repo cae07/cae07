@@ -9,7 +9,7 @@
 <br>
 <hr>
 <br>
-<div>
+<div align="center">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
   <a href="https://github.com/cae07">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cae07&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
