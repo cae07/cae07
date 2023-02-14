@@ -1,6 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=35&lines=Hello+world!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08F000&size=35&lines=Hello+world!;I'm+Caê+Calçolari;Full+Stack-developer)
 
-- :computer: Desenvolvedor Web.
+- :computer: Sr Assoc, Front-End Dev at Avanade
 - :parasol_on_ground: Amante da praia
 - :dog: Amante dos animais
 - :pray: Mestre Reiki
